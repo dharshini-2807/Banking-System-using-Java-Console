@@ -98,8 +98,5 @@ The main objective of this project is to demonstrate Java programming concepts t
 
 ## 👩‍💻 Developed By
 
-**Your Name**
+Dharshini S 
 
-## 📄 License
-
-This project is developed for educational purposes.
