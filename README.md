@@ -48,8 +48,6 @@ Banking-Management-System/
 ├── Transaction.java
 ├── FileManager.java
 ├── CustomException.java
-│
-└── banking_data.dat (Generated automatically)
 ```
 
 ## ⚙️ How to Run the Project
